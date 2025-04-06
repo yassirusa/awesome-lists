@@ -1,3 +1,0 @@
-Unix.Coinminer.Agent
-Unix.Coinminer.Downloader
-Unix.Coinminer.TeamTNT

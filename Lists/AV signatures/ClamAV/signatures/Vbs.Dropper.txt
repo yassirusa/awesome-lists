@@ -1,4 +1,0 @@
-Vbs.Dropper.Agent
-Vbs.Dropper.Kimsuky
-Vbs.Dropper.MuddyWater
-Vbs.Dropper.StrRAT

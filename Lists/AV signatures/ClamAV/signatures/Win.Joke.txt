@@ -1,5 +1,0 @@
-Win.Joke.Badjoke
-Win.Joke.Gsmfree
-Win.Joke.Joke
-Win.Joke.MsgBoxFlood
-Win.Joke.Screenmate

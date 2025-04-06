@@ -1,2 +1,0 @@
-Onenote.Trojan.Agent
-Onenote.Trojan.Guloader

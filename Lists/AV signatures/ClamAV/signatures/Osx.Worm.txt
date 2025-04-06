@@ -1,4 +1,0 @@
-Osx.Worm.Koobface
-Osx.Worm.Leap
-Osx.Worm.Niqtana
-Osx.Worm.iworm

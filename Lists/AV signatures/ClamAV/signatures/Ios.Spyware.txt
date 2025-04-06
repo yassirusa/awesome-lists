@@ -1,2 +1,0 @@
-Ios.Spyware.SafDataGrb
-Ios.Spyware.SlBgTask

@@ -1,1 +1,0 @@
-linux DFIR cheat sheet from defensive-security.com

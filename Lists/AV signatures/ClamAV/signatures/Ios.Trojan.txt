@@ -1,3 +1,0 @@
-Ios.Trojan.FakeTelegram
-Ios.Trojan.Unflod
-Ios.Trojan.Xsser

@@ -1,3 +1,0 @@
-Asp.Backdoor.AntSword
-Asp.Backdoor.Awen
-Asp.Backdoor.Msfvenom_Payload

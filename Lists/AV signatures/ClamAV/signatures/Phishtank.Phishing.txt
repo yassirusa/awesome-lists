@@ -1,4 +1,0 @@
-Phishtank.Phishing.PHISH_ID_5553505
-Phishtank.Phishing.PHISH_ID_5840627
-Phishtank.Phishing.PHISH_ID_5852514
-Phishtank.Phishing.PHISH_ID_5970789

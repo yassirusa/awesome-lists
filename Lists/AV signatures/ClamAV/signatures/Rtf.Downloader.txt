@@ -1,3 +1,0 @@
-Rtf.Downloader.Agent
-Rtf.Downloader.CVE_2017
-Rtf.Downloader.TelegramRat

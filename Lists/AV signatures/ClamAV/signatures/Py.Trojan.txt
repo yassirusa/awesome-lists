@@ -1,2 +1,0 @@
-Py.Trojan.NecroBot
-Py.Trojan.Screenshotter

@@ -1,2 +1,0 @@
-Rtf.Dropper.Agent
-Rtf.Dropper.SectorB06

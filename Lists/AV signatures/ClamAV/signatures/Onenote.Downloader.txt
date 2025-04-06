@@ -1,3 +1,0 @@
-Onenote.Downloader.Agent
-Onenote.Downloader.IcedID
-Onenote.Downloader.Qbot

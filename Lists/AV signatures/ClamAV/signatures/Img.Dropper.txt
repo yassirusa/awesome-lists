@@ -1,2 +1,0 @@
-Img.Dropper.PhishingLure
-Img.Dropper.TrickBot

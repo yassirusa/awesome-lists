@@ -1,2 +1,0 @@
-Unix.Rootkit.CytroxPredator
-Unix.Rootkit.Umbreon

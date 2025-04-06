@@ -1,6 +1,0 @@
-Lnk.Downloader.Agent
-Lnk.Downloader.CarnavalHeist
-Lnk.Downloader.CoralRaider
-Lnk.Downloader.EarthLusca
-Lnk.Downloader.HTAAgent
-Lnk.Downloader.Qakbot

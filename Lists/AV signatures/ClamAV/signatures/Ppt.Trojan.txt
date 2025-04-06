@@ -1,2 +1,0 @@
-Ppt.Trojan.Agent
-Ppt.Trojan.Donot

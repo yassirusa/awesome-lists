@@ -1,5 +1,0 @@
-Andr.Ransomware.Androidos
-Andr.Ransomware.Jisut
-Andr.Ransomware.Medusa
-Andr.Ransomware.Slocker
-Andr.Ransomware.Smskey

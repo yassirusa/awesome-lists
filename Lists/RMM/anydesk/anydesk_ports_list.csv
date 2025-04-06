@@ -1,3 +1,0 @@
-dest_port,metadata_comment,metadata_confidence,metatada_category,metadata_detection_type,metadata_link,metadata_reference
-6568,anydesk default port,medium,RMM,hunting,,https://github.com/mthcht/awesome-lists/tree/main/Lists
-7070,observed used with powershell empire and anydesk but mostly legit usage,low,RMM,hunting,,https://github.com/mthcht/awesome-lists/tree/main/Lists

@@ -1,3 +1,0 @@
-Lnk.Dropper.Agent
-Lnk.Dropper.Astaroth
-Lnk.Dropper.SugarGh0stRAT

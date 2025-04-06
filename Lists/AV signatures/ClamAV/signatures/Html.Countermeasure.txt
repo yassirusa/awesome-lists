@@ -1,2 +1,0 @@
-Html.Countermeasure.EWSRT1
-Html.Countermeasure.EWSRT2

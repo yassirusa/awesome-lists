@@ -1,3 +1,0 @@
-Unix.Virus.Extinstalltool
-Unix.Virus.Ladvix
-Unix.Virus.Lamer

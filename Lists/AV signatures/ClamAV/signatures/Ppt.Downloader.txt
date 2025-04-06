@@ -1,2 +1,0 @@
-Ppt.Downloader.Agent
-Ppt.Downloader.CVE_2017_8759

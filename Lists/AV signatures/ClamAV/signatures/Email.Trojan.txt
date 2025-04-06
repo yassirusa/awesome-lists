@@ -1,2 +1,0 @@
-Email.Trojan.Agent
-Email.Trojan.Toa

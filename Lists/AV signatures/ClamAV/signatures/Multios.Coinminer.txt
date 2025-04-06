@@ -1,3 +1,0 @@
-Multios.Coinminer.Cpuminer
-Multios.Coinminer.Miner
-Multios.Coinminer.XMRig
