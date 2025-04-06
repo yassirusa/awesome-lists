@@ -9,7 +9,7 @@ IPINFO_API_TOKEN = "your_api_token_here"
 def get_country(ip):
     """Fetch the country of an IP address using ipinfo.io."""
     try:
-        response = requests.get(f"https://ipinfo.io/{ip}?token={IPINFO_API_TOKEN}")
+        response = requests.get(f"https://ipinfo.io/{ip}/json")
         if response.status_code == 200:
             data = response.json()
             return data.get("country")
