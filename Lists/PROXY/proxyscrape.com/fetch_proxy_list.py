@@ -8,7 +8,7 @@ from io import StringIO
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Proxy list URL
-URL = "http://api.proxyscrape.com/v4/free-proxy-list/get?request=get_proxies&proxy_format=ipport&format=csv"
+URL = "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=csv&country=us"
 FILE_NAME = "proxyscrape_proxies_raw.csv"
 OUTPUT_FILE = "PROXY_ALL_proxyscrape_list.csv"
 
@@ -32,7 +32,7 @@ def process_proxy_list(csv_data):
     try:
         df = pd.read_csv(StringIO(csv_data))
         
-        df.rename(columns={
+        column_mapping = {
             'ip': 'dest_ip',
             'port': 'dest_port',
             'alive': 'metadata_alive',
@@ -68,7 +68,13 @@ def process_proxy_list(csv_data):
             'times_alive': 'metadata_times_alive',
             'times_dead': 'metadata_times_dead',
             'uptime': 'metadata_uptime'
-        }, inplace=True)
+        }
+        
+        df.rename(columns=column_mapping, inplace=True)
+        
+        # Reorder columns to match the order in column_mapping
+        ordered_columns = list(column_mapping.values())
+        df = df[ordered_columns]
         
         df.to_csv(OUTPUT_FILE, index=False)
         logging.info(f"Processed proxy list saved as {OUTPUT_FILE}")
