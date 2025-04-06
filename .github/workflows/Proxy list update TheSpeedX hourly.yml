@@ -22,8 +22,6 @@ jobs:
           # List of .txt files to download
           FILES=(
             "http.txt"
-            "socks4.txt"
-            "socks5.txt"
           )
 
           # Base URL using raw.githubusercontent.com
