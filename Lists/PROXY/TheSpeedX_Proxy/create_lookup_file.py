@@ -1,10 +1,22 @@
 import os
 import pandas as pd
 import requests
-from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
 
-# Add your ipinfo.io API token here
-IPINFO_API_TOKEN = "your_api_token_here"
+def test_proxy(ip, port):
+    """Test if a proxy is working by attempting to connect to a test URL"""
+    proxy = f"http://{ip}:{port}"
+    proxies = {
+        "http": proxy,
+        "https": proxy
+    }
+    test_url = "http://httpbin.org/ip"  # Using httpbin.org as test URL
+    try:
+        response = requests.get(test_url, proxies=proxies, timeout=10)
+        return response.status_code == 200
+    except:
+        return False
 
 def get_country(ip):
     """Fetch the country of an IP address using ipinfo.io."""
@@ -21,22 +33,37 @@ def process_txt_files(output_csv='PROXY_ALL_TheSpeedX_List.csv'):
     data = set()
     files = [f for f in os.listdir() if f.endswith('.txt')]
     
-    for file in files:
-        with open(file, 'r', encoding='utf-8', errors='replace') as f:
-            for line in f:
-                parts = line.strip().split(':')
-                if len(parts) >= 2:
-                    dest_ip, dest_port = parts[:2]
-                    country = get_country(dest_ip)
-                    if country in {"US", "DE", "IT"}:  # Filter by allowed countries
-                        data.add((dest_ip, dest_port, country))  # Include country in the data
+    print("Reading proxy files and testing connections...")
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        test_tasks = []
+        
+        for file in files:
+            with open(file, 'r', encoding='utf-8', errors='replace') as f:
+                for line in f:
+                    parts = line.strip().split(':')
+                    if len(parts) >= 2:
+                        dest_ip, dest_port = parts[:2]
+                        country = get_country(dest_ip)
+                        if country in {"US", "DE", "IT"}:  # Filter by allowed countries
+                            # Submit the proxy testing task
+                            future = executor.submit(test_proxy, dest_ip, dest_port)
+                            test_tasks.append((future, (dest_ip, dest_port, country)))
+        
+        # Process completed tasks
+        for future, proxy_info in test_tasks:
+            try:
+                if future.result():  # If proxy test was successful
+                    data.add(proxy_info)
+                    print(f"Valid proxy found: {proxy_info[0]}:{proxy_info[1]} ({proxy_info[2]})")
+            except Exception as e:
+                print(f"Error testing proxy {proxy_info[0]}:{proxy_info[1]}: {str(e)}")
     
     # Convert collected data to a DataFrame
     df = pd.DataFrame(list(data), columns=['dest_ip', 'dest_port', 'country'])
     
     # Save to CSV
     df.to_csv(output_csv, index=False, encoding='utf-8')
-    print(f"Merged CSV saved as {output_csv}")
+    print(f"CSV file '{output_csv}' created successfully with {len(data)} verified entries.")
 
 if __name__ == "__main__":
     process_txt_files()

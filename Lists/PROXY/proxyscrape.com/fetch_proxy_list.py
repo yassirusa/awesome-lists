@@ -3,14 +3,29 @@ import logging
 import requests
 import pandas as pd
 from io import StringIO
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Proxy list URL
-URL = "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=csv&country=us"
+URL = "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=csv&country=us,de,it"
 FILE_NAME = "proxyscrape_proxies_raw.csv"
 OUTPUT_FILE = "PROXY_ALL_proxyscrape_list.csv"
+
+def test_proxy(ip, port):
+    """Test if a proxy is working by attempting to connect to a test URL"""
+    proxy = f"http://{ip}:{port}"
+    proxies = {
+        "http": proxy,
+        "https": proxy
+    }
+    test_url = "http://httpbin.org/ip"  # Using httpbin.org as test URL
+    try:
+        response = requests.get(test_url, proxies=proxies, timeout=10)
+        return response.status_code == 200
+    except:
+        return False
 
 def download_proxy_list():
     try:
@@ -75,9 +90,30 @@ def process_proxy_list(csv_data):
         # Reorder columns to match the order in column_mapping
         ordered_columns = list(column_mapping.values())
         df = df[ordered_columns]
+
+        logging.info("Testing proxy connections...")
+        verified_proxies = []
         
-        df.to_csv(OUTPUT_FILE, index=False)
-        logging.info(f"Processed proxy list saved as {OUTPUT_FILE}")
+        # Test each proxy
+        with ThreadPoolExecutor(max_workers=20) as executor:
+            test_tasks = []
+            for _, row in df.iterrows():
+                future = executor.submit(test_proxy, row['dest_ip'], row['dest_port'])
+                test_tasks.append((future, row))
+            
+            # Process completed tasks
+            for future, row in test_tasks:
+                try:
+                    if future.result():  # If proxy test was successful
+                        verified_proxies.append(row)
+                        logging.info(f"Valid proxy found: {row['dest_ip']}:{row['dest_port']}")
+                except Exception as e:
+                    logging.error(f"Error testing proxy {row['dest_ip']}:{row['dest_port']}: {str(e)}")
+
+        # Create new DataFrame with only verified proxies
+        verified_df = pd.DataFrame(verified_proxies)
+        verified_df.to_csv(OUTPUT_FILE, index=False)
+        logging.info(f"Processed proxy list saved as {OUTPUT_FILE} with {len(verified_proxies)} verified entries")
     except Exception as e:
         logging.error(f"Error processing proxy list: {e}")
 
