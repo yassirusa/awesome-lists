@@ -34,7 +34,7 @@ def process_txt_files(output_csv='PROXY_ALL_TheSpeedX_List.csv'):
     files = [f for f in os.listdir() if f.endswith('.txt')]
     
     # Countries to filter
-    allowed_countries = {"US", "DE", "IT"}
+    allowed_countries = {"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"}
     verified_proxies = []
     
     print("Reading proxy files and testing connections...")

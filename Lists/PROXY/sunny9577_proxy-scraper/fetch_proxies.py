@@ -48,7 +48,7 @@ def create_csv(output_filename, proxy_files):
     csv_header = ["dest_ip", "dest_port", "country_code", "proxy_type"]
     
     # Countries to filter
-    allowed_countries = {"US", "DE", "IT"}
+    allowed_countries = {"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"}
     
     # Collect all proxies
     all_proxies = []

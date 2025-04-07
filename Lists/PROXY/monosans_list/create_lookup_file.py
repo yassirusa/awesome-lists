@@ -38,7 +38,7 @@ def process_proxies():
     pattern = re.compile(r"(http|https|socks4|socks5)://([\d\.]+):(\d+)")
 
     # Countries to filter
-    allowed_countries = {"US", "DE", "IT"}
+    allowed_countries = {"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"}
     
     # Read the input file and extract the required fields
     proxy_data = []

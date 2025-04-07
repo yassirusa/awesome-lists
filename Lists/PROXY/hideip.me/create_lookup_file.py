@@ -34,7 +34,7 @@ def process_txt_files(output_csv='PROXY_ALL_hideip_me_List.csv'):
     print("Processing proxy files and testing connections...")
     
     # Countries to filter
-    allowed_countries = {"US", "DE", "IT"}
+    allowed_countries = {"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"}
     
     data = defaultdict(set)
     files = [f for f in os.listdir() if f.endswith('.txt')]

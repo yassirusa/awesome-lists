@@ -38,7 +38,7 @@ def download_proxy_list(url, output_filename):
         print(f"Successfully downloaded {len(proxies)} proxies. Testing connections...")
         
         # Countries to filter
-        allowed_countries = {"US", "DE", "IT"}
+        allowed_countries = {"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"}
         verified_proxies = []
         
         # Test proxies concurrently

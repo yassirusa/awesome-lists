@@ -38,7 +38,7 @@ csv_filename = "PROXY_ALL_fresh_proxy_list_filtered.csv"
 proxy_data = []
 
 # Countries to filter
-allowed_countries = {"US", "DE", "IT"}
+allowed_countries = { "US", "DE", "MP", "AS", "UM", "GU", "PR", "VI" }
 
 # Fetch and process proxylist.csv
 response = requests.get(url)

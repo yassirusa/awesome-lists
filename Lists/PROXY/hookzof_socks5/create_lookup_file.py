@@ -51,7 +51,7 @@ def process_proxies():
     # List to store proxy data
     proxy_data = []
     verified_proxies = []
-    allowed_countries = {"US", "DE", "IT"}
+    allowed_countries = {"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"}
 
     # Fetch and process proxy.txt (SOCKS5 proxies)
     print("Processing SOCKS5 proxies...")

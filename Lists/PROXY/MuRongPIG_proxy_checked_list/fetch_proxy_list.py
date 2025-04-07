@@ -44,7 +44,7 @@ def create_combined_csv(output_filename, proxy_urls):
     print(f"Processing proxies and testing connections...")
     
     # Countries to filter
-    allowed_countries = {"US", "DE", "IT"}
+    allowed_countries = {"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"}
     verified_proxies = []
     unique_proxies = set()
     

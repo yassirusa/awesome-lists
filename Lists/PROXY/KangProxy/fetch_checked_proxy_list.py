@@ -45,7 +45,7 @@ def create_csv(output_filename, proxies):
     print(f"Processing proxies and testing connections...")
     
     # Countries to filter
-    allowed_countries = {"US", "DE", "IT"}
+    allowed_countries = {"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"}
     verified_proxies = []
     
     # Extract unique IP:Port combinations
