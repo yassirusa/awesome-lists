@@ -30,8 +30,12 @@ def get_country(ip):
     return None
 
 def process_txt_files(output_csv='PROXY_ALL_TheSpeedX_List.csv'):
-    data = set()
+    data = []
     files = [f for f in os.listdir() if f.endswith('.txt')]
+    
+    # Countries to filter
+    allowed_countries = {"US", "DE", "IT"}
+    verified_proxies = []
     
     print("Reading proxy files and testing connections...")
     with ThreadPoolExecutor(max_workers=20) as executor:
@@ -43,8 +47,9 @@ def process_txt_files(output_csv='PROXY_ALL_TheSpeedX_List.csv'):
                     parts = line.strip().split(':')
                     if len(parts) >= 2:
                         dest_ip, dest_port = parts[:2]
+                        # Get country from ipinfo.io
                         country = get_country(dest_ip)
-                        if country in {"US", "DE", "IT"}:  # Filter by allowed countries
+                        if country in allowed_countries:
                             # Submit the proxy testing task
                             future = executor.submit(test_proxy, dest_ip, dest_port)
                             test_tasks.append((future, (dest_ip, dest_port, country)))
@@ -53,17 +58,17 @@ def process_txt_files(output_csv='PROXY_ALL_TheSpeedX_List.csv'):
         for future, proxy_info in test_tasks:
             try:
                 if future.result():  # If proxy test was successful
-                    data.add(proxy_info)
+                    verified_proxies.append(proxy_info)
                     print(f"Valid proxy found: {proxy_info[0]}:{proxy_info[1]} ({proxy_info[2]})")
             except Exception as e:
                 print(f"Error testing proxy {proxy_info[0]}:{proxy_info[1]}: {str(e)}")
     
     # Convert collected data to a DataFrame
-    df = pd.DataFrame(list(data), columns=['dest_ip', 'dest_port', 'country'])
+    df = pd.DataFrame(verified_proxies, columns=['dest_ip', 'dest_port', 'country'])
     
     # Save to CSV
     df.to_csv(output_csv, index=False, encoding='utf-8')
-    print(f"CSV file '{output_csv}' created successfully with {len(data)} verified entries.")
+    print(f"CSV file '{output_csv}' created successfully with {len(verified_proxies)} verified entries.")
 
 if __name__ == "__main__":
     process_txt_files()

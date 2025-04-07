@@ -10,13 +10,23 @@ def test_proxy(ip, port):
         "http": proxy,
         "https": proxy
     }
-    test_url = "http://www.google.com"  # Using Google as a test URL
+    test_url = "http://httpbin.org/ip"  # Using httpbin.org as test URL
     try:
-        # Set a timeout of 10 seconds for the request
         response = requests.get(test_url, proxies=proxies, timeout=10)
         return response.status_code == 200
     except:
         return False
+
+def get_country(ip):
+    """Fetch the country of an IP address using ipinfo.io."""
+    try:
+        response = requests.get(f"https://ipinfo.io/{ip}/json")
+        if response.status_code == 200:
+            data = response.json()
+            return data.get("country")
+    except Exception as e:
+        print(f"Error fetching country for IP {ip}: {e}")
+    return None
 
 # URL of the proxy list
 url = "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/proxylist.csv"
@@ -43,11 +53,12 @@ if response.status_code == 200:
             if len(fields) > 7:  # Ensure there are enough fields
                 ip = fields[1]
                 port = fields[2]
-                country_code = fields[6]
-                if country_code in allowed_countries:
+                # Get country from ipinfo.io instead of using the provided country code
+                country = get_country(ip)
+                if country in allowed_countries:
                     # Submit the proxy testing task
                     future = executor.submit(test_proxy, ip, port)
-                    test_tasks.append((future, [ip, port, country_code]))
+                    test_tasks.append((future, [ip, port, country]))
         
         # Process completed tasks
         for future, proxy_info in test_tasks:

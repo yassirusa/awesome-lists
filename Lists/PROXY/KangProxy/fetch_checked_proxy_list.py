@@ -42,7 +42,7 @@ def download_proxy_list(url):
         return []
 
 def create_csv(output_filename, proxies):
-    print("Processing proxies and testing connections...")
+    print(f"Processing proxies and testing connections...")
     
     # Countries to filter
     allowed_countries = {"US", "DE", "IT"}
