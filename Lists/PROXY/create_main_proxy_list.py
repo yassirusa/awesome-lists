@@ -38,8 +38,8 @@ sorted_proxies = sorted(proxy_dict.items(), key=lambda x: x[0][0])
 # Write to the unified CSV file
 with open(output_filename, "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow(["dest_ip", "dest_port", "metadata_comment"])
+    # writer.writerow(["dest_ip", "dest_port", "metadata_comment"])
     for (dest_ip, dest_port), sources in sorted_proxies:
-        writer.writerow([dest_ip, dest_port, ", ".join(sorted(sources))])
+        writer.writerow([f"{dest_ip}:{dest_port}"])
 
 print(f"CSV file '{output_filename}' created successfully with {len(sorted_proxies)} unique entries.")
