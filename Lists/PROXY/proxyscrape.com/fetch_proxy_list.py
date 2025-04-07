@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Proxy list URL"US", "DE", "MP", "AS", "UM", "GU", "PR", "VI"
-URL = "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=csv&country=us,de,mp,as,um,gu,pr,vi"
+URL = "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=us,de,mp,as,um,gu,pr,vi&ssl=all&anonymity=all"
 FILE_NAME = "proxyscrape_proxies_raw.csv"
 OUTPUT_FILE = "PROXY_ALL_proxyscrape_list.csv"
 
