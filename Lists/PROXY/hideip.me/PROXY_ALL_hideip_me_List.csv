@@ -1,12 +1,5 @@
 dest_ip,dest_port,dest_country,metadata_file
-43.153.69.25,13001,US,connect.txt
-23.122.184.9,8888,US,connect.txt
-43.135.147.140,13001,US,connect.txt
-43.159.133.199,13001,US,connect.txt
-43.130.56.110,13001,US,connect.txt
-43.153.62.242,13001,US,connect.txt
-170.106.196.226,13001,US,connect.txt
-43.153.12.131,13001,US,connect.txt
-170.106.136.235,13001,US,connect.txt
-43.153.8.65,13001,US,connect.txt
-5.78.124.240,40000,US,socks4.txt
+43.153.35.252,13001,US,connect.txt
+43.153.102.53,13001,US,connect.txt
+96.227.245.221,999,US,connect.txt
+99.20.24.9,8888,US,connect.txt
