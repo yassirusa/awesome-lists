@@ -1,2 +1,4 @@
 dest_ip,dest_port,country_code,proxy_type
-47.90.205.231,33333,US,http
+104.154.134.179,888,US,http
+70.15.136.64,8888,US,http
+138.68.60.8,8080,US,http
