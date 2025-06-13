@@ -1,2 +1,6 @@
 dest_ip,dest_port,country_code,protocol
-100.21.211.143,3128,US,http
+34.216.237.152,3128,US,http
+3.18.42.130,1080,US,http
+161.35.70.249,80,DE,http
+198.199.86.11,3128,US,http
+20.127.145.35,3128,US,http
