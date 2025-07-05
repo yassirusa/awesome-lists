@@ -6,7 +6,6 @@ dest_ip,dest_port,country_code,proxy_type
 8.211.51.115,31433,DE,http
 8.211.49.86,9050,DE,http
 8.209.96.245,193,DE,http
-147.45.178.211,14658,DE,http
 8.209.96.245,5060,DE,http
 8.211.49.86,10000,DE,http
 8.211.49.86,808,DE,http
@@ -35,17 +34,16 @@ dest_ip,dest_port,country_code,proxy_type
 47.254.36.213,3001,US,http
 47.251.87.74,92,US,http
 162.214.165.203,80,US,http
+47.251.87.74,3128,US,http
 23.247.136.254,80,US,http
-162.241.207.217,80,US,http
 96.70.186.221,80,US,http
+4.156.78.45,80,US,http
 154.16.146.46,80,US,http
 85.215.64.49,80,DE,http
 78.46.84.169,8080,DE,http
 198.23.143.74,80,US,http
 38.147.98.190,8080,US,http
 96.70.186.221,80,US,http
-198.74.51.79,8888,US,http
-71.121.234.208,80,US,http
 44.226.40.47,90,US,http
 192.73.244.36,80,US,http
 198.49.68.80,80,US,http
@@ -53,8 +51,7 @@ dest_ip,dest_port,country_code,proxy_type
 138.199.233.152,80,DE,http
 51.81.245.3,17981,US,http
 38.180.82.210,8080,US,http
-155.94.241.131,3128,US,http
-155.94.241.133,3128,US,http
+23.157.88.25,1080,DE,http
 4.156.78.45,80,US,http
 81.169.213.169,8888,DE,http
 23.247.136.254,80,US,http
@@ -64,6 +61,7 @@ dest_ip,dest_port,country_code,proxy_type
 138.68.60.8,80,US,http
 23.247.136.248,80,US,http
 5.78.129.53,80,US,http
+13.221.134.55,3128,US,http
 40.76.69.94,8080,US,http
 47.251.74.38,4840,US,http
 198.23.143.74,80,US,http
