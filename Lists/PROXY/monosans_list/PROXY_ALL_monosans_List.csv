@@ -1,9 +1,1 @@
 dest_ip,dest_port,country_code,proxy_type
-147.28.240.210,80,DE,http
-147.28.240.213,80,DE,http
-147.28.240.210,9400,DE,http
-147.28.240.210,9401,DE,http
-147.28.240.213,9400,DE,http
-147.28.240.213,9401,DE,http
-23.237.210.82,80,US,http
-217.160.162.25,8888,DE,http
