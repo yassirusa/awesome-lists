@@ -16,7 +16,6 @@ dest_ip,dest_port,country_code,proxy_type
 8.209.96.245,8080,DE,http
 8.211.49.86,20002,DE,http
 8.211.49.86,2000,DE,http
-202.61.204.51,80,DE,http
 8.211.42.167,9098,DE,http
 8.211.42.167,80,DE,http
 47.252.18.37,8443,US,http
@@ -36,11 +35,11 @@ dest_ip,dest_port,country_code,proxy_type
 47.251.87.74,4002,US,http
 47.251.87.199,8081,US,http
 47.89.159.212,8081,US,http
-154.16.146.48,80,US,http
 47.89.159.212,13,US,http
 47.254.36.213,80,US,http
+47.251.74.38,9080,US,http
 47.252.29.28,11222,US,http
-20.81.66.55,80,US,http
 52.188.28.218,3128,US,http
-154.16.146.45,80,US,http
+20.96.194.191,3128,US,http
+47.89.159.212,8080,US,http
 47.251.87.74,1036,US,http
