@@ -1,232 +1,166 @@
-103.36.11.18:8199:Indonesia
-103.160.12.147:8199:Indonesia
+70.166.167.55:57745:United States
 143.110.190.60:1080:India
+206.189.57.182:1080:Germany
 139.59.24.173:1080:India
-163.47.37.190:1080:Bangladesh
-8.212.161.91:1080:Philippines
 134.199.159.23:1080:United States
-103.118.175.165:8199:Indonesia
-103.239.200.226:11:Philippines
 104.248.197.67:1080:The Netherlands
-103.171.83.25:10810:Indonesia
-185.93.89.145:4096:United States
-8.222.131.12:33333:China
-158.101.157.64:8902:Japan
+8.219.81.121:1100:Singapore
 185.93.89.178:6054:United States
-185.93.89.145:4028:United States
-185.93.89.157:47595:United States
+8.222.181.144:1100:Singapore
+185.93.89.172:5265:United States
 103.82.25.14:10001:Vietnam
-103.239.200.210:58765:Philippines
+8.222.181.144:1122:Singapore
 37.200.67.75:1080:Russia
-180.103.250.134:1080:China
-185.93.89.187:5682:United States
-185.93.89.188:4148:United States
-185.93.89.188:5055:United States
+82.200.235.134:45730:Kazakhstan
+82.200.235.134:51614:Kazakhstan
+82.200.235.134:43326:Kazakhstan
+185.93.89.145:4145:Russia
 185.93.89.188:23923:United States
-8.219.178.111:1111:Singapore
-185.93.89.145:10019:United States
-185.93.89.158:9080:United States
-37.18.73.60:5566:United States
-185.93.89.164:4002:Germany
-185.93.89.177:4006:Bangladesh
-185.93.89.158:5960:United States
-185.93.89.172:5396:United States
-185.93.89.172:5880:Germany
+185.93.89.147:8163:United States
+37.18.73.60:5566:Germany
+185.93.89.163:10088:United States
+89.58.45.94:43663:Chile
+185.93.89.178:6525:United States
+47.237.3.248:1100:China
+185.93.89.144:4006:Italy
 185.93.89.172:4587:United States
 185.93.89.145:4933:United States
 47.243.94.125:1080:Hong Kong
 185.93.89.151:8592:United States
-185.93.89.182:6662:United States
-185.93.89.163:34047:United States
-185.93.89.182:4491:United States
-185.93.89.163:4002:Vietnam
-185.93.89.147:7012:United States
-185.93.89.176:5806:United States
-185.93.89.177:8247:United States
+185.93.89.151:17507:United States
+185.93.89.155:28252:United States
+185.93.89.151:27225:United States
 185.93.89.180:8008:United States
 185.93.89.158:11723:United States
-185.93.89.183:7497:United States
-185.93.89.178:4228:Singapore
 185.93.89.151:8777:United States
-185.93.89.163:5880:United States
-185.93.89.157:17140:United States
+185.93.89.180:4441:United States
+185.93.89.145:4666:Ukraine
 185.93.89.155:8520:United States
 185.93.89.172:27394:United States
-185.93.89.144:4108:Germany
-185.93.89.176:6379:United States
-185.93.89.163:28359:United States
-185.93.89.172:4124:United States
-185.93.89.147:8447:United States
-185.93.89.144:27091:United States
-185.93.89.144:11716:United States
-185.93.89.187:8053:United States
-185.93.89.165:13811:United States
-185.93.89.164:21724:France
+185.93.89.188:16379:Vietnam
+185.93.89.146:5610:United States
+185.93.89.164:8118:Ireland
 185.93.89.187:8087:United States
 185.93.89.176:4319:United States
 185.93.89.146:5989:United States
-185.93.89.172:6007:South Africa
 185.93.89.155:17612:United States
-185.93.89.165:31847:United States
-185.93.89.146:6766:United States
-185.93.89.145:4842:France
+185.93.89.172:31571:United States
+185.93.89.178:8001:United States
+185.93.89.146:6804:United States
 185.93.89.183:9400:United States
 185.93.89.164:8880:United States
-185.93.89.182:5060:France
-185.93.89.180:4227:United States
-185.93.89.144:11895:United States
-185.93.89.145:10018:United States
+185.93.89.180:4057:South Korea
 185.93.89.187:6383:United States
-185.93.89.172:5806:United States
-185.93.89.164:6703:United States
-185.93.89.164:4916:United States
-185.93.89.145:4477:Japan
-185.93.89.158:10013:United States
-185.93.89.146:4682:United States
-185.93.89.180:5050:United States
-185.93.89.164:8214:United States
-185.93.89.163:21268:United States
-185.93.89.147:8689:United States
-185.93.89.172:7897:United States
-185.93.89.188:8089:United States
-185.93.89.180:4637:Vietnam
+185.93.89.187:4040:France
+185.93.89.172:4006:France
+185.93.89.175:5104:United States
+185.93.89.188:8181:United States
+185.93.89.182:4673:Singapore
+185.93.89.180:5107:United States
+185.93.89.187:6666:United States
+185.93.89.163:5106:United States
+185.93.89.172:22266:India
+185.93.89.145:4422:United States
 185.93.89.144:4632:Germany
-185.93.89.188:4890:United States
-185.93.89.145:8083:United States
-185.93.89.144:10054:United States
-185.93.89.144:4111:United States
-185.93.89.145:4038:United States
+185.93.89.145:8534:United States
+185.93.89.145:4070:United States
 185.93.89.180:4111:United States
-185.93.89.172:6185:United States
-185.93.89.182:4444:United States
-185.93.89.158:27285:United States
-185.93.89.163:21417:United States
-185.93.89.163:32482:United States
-185.93.89.144:10075:United States
+185.93.89.145:8159:United States
+185.93.89.144:6792:United States
+185.93.89.144:5731:United States
+185.93.89.172:25979:United States
+185.93.89.172:5729:Germany
+185.93.89.180:4153:France
+185.93.89.146:9050:United States
+185.93.89.158:6379:United States
 185.93.89.145:4005:United States
-185.93.89.145:4065:Pakistan
 185.93.89.145:5734:Germany
 185.93.89.151:8999:United States
-185.93.89.188:10034:United States
-185.93.89.157:4151:United States
-185.93.89.165:9105:United States
-185.93.89.158:4127:Spain
+185.93.89.187:4916:United States
 185.93.89.147:10800:United States
-185.93.89.188:8163:United States
-185.93.89.172:18636:United States
-185.93.89.145:5511:United States
-185.93.89.145:10239:Cambodia
-185.93.89.146:9016:United States
+185.93.89.147:11112:United States
+185.93.89.145:6421:United States
+47.250.10.35:1100:Malaysia
+185.93.89.145:4450:United States
 185.93.89.145:4150:United States
-185.93.89.146:8086:United States
-185.93.89.157:4076:Vietnam
-185.93.89.145:4700:United Kingdom
-185.93.89.163:4303:Russia
-185.93.89.180:4450:United States
-185.93.89.175:8084:United States
-185.93.89.145:4679:United States
-185.93.89.187:8023:United States
-185.93.89.164:10015:Belgium
+185.93.89.145:4744:United States
+185.93.89.176:4097:United Kingdom
+185.93.89.188:5307:United States
+185.93.89.145:4271:United States
+185.93.89.188:4929:Germany
 185.93.89.145:5092:United States
-185.93.89.163:18765:United States
-185.93.89.178:8180:United States
-185.93.89.178:4056:Germany
+185.93.89.176:4433:South Korea
+185.93.89.145:6443:United States
+185.93.89.187:8079:United States
 185.93.89.163:16607:Vietnam
-185.93.89.145:4151:United States
-185.93.89.187:8096:United States
-185.93.89.187:4555:United States
-185.93.89.182:4999:Germany
-185.93.89.144:10239:United States
-185.93.89.163:4148:United States
-185.93.89.146:4433:United States
+185.93.89.145:4267:United States
+185.93.89.164:8001:United States
+185.93.89.180:4151:United States
 185.93.89.155:10026:Vietnam
 185.93.89.163:18678:United States
-27.71.164.182:1080:Vietnam
-185.93.89.144:9100:United States
-185.93.89.147:9285:United States
-185.93.89.168:13811:United States
+185.93.89.178:7006:United States
+185.93.89.144:6745:Vietnam
+185.93.89.155:4040:Bangladesh
 185.93.89.172:4111:United States
+185.93.89.183:10048:United States
+185.93.89.157:9285:United States
+185.93.89.180:7521:United States
+185.93.89.158:8005:United States
 185.93.89.147:6214:United States
-185.93.89.180:4011:United States
-185.93.89.180:4356:Japan
-185.93.89.155:4433:United States
-185.93.89.164:8030:United States
-185.93.89.145:5224:United States
-185.93.89.177:4158:United States
+47.237.3.248:33333:China
+185.93.89.176:20496:United States
+185.93.89.145:5610:United States
+185.93.89.178:15833:India
 185.93.89.182:4250:Vietnam
-185.93.89.183:9090:United States
-47.76.26.123:1011:Hong Kong
-185.93.89.183:4011:France
-185.93.89.180:8180:United States
-185.93.89.172:4270:Slovenia
-185.93.89.145:4334:France
-185.93.89.172:4916:United States
-103.109.96.240:1080:Bangladesh
+185.93.89.176:9381:United States
+8.217.111.249:1011:Hong Kong
+8.222.181.144:1011:Singapore
+8.219.81.121:1011:Singapore
+185.93.89.187:4106:India
 185.93.89.187:4021:Vietnam
-185.93.89.180:4021:United States
-185.93.89.188:4021:Vietnam
+185.93.89.172:4021:United States
 185.93.89.145:4502:United States
-185.93.89.164:4275:United States
-34.169.176.65:1080:United States
 202.142.189.178:7410:Pakistan
-185.93.89.182:4098:Germany
+185.93.89.158:4227:United States
 103.82.24.166:10001:Vietnam
-185.93.89.182:4880:United States
+185.93.89.183:4700:France
+185.93.89.165:4113:India
 185.93.89.182:4599:France
+115.127.132.225:1080:Bangladesh
 103.82.27.24:10001:Vietnam
 103.82.24.234:10001:Vietnam
-185.93.89.180:4099:United States
 185.93.89.182:4038:United States
-185.93.89.179:5806:United States
-185.93.89.147:5827:Russia
 185.93.89.146:5790:India
-185.93.89.181:4241:United States
 3.87.25.249:1080:United States
-185.93.89.183:4618:United States
+47.242.190.181:1111:Hong Kong
+185.93.89.181:4038:France
+185.93.89.172:9990:United States
+185.93.89.175:5666:United States
 185.93.89.183:4872:United States
-185.93.89.144:4424:Singapore
-185.93.89.180:5781:United States
-185.93.89.151:4883:United States
-185.93.89.165:4414:South Africa
+185.93.89.182:4551:France
+185.93.89.180:7428:United States
 185.93.89.144:5006:United States
 185.93.89.180:4046:United States
-115.127.119.253:1080:Bangladesh
-115.127.119.252:1080:Bangladesh
-185.93.89.176:4414:Bangladesh
-185.93.89.183:9341:United States
+185.93.89.155:4010:Vietnam
 185.93.89.155:4414:France
+185.93.89.187:6703:United States
 185.93.89.158:4586:France
-185.93.89.163:4096:United States
-185.93.89.182:4996:Germany
-185.93.89.146:4036:Malaysia
-185.93.89.180:5566:United States
-185.93.89.175:5827:United States
-185.93.89.157:4065:Germany
+185.93.89.146:5511:United States
+185.93.89.158:7475:United States
 185.93.89.155:5961:United States
-185.93.89.147:5863:United States
-185.93.89.147:8003:United States
-185.93.89.180:9062:United States
-8.220.200.221:10800:South Korea
-8.210.175.71:10800:Hong Kong
-8.220.223.66:10800:South Korea
+185.93.89.180:4022:United States
+185.93.89.182:5006:United States
+185.93.89.163:8787:Singapore
 8.213.131.36:10800:Singapore
 8.217.37.153:10800:Hong Kong
-185.93.89.182:4809:Ireland
-185.93.89.181:9349:France
-89.58.45.94:36769:United States
-185.93.89.178:4175:Indonesia
 185.93.89.165:10011:United States
-185.93.89.187:4221:France
-185.93.89.182:4733:United States
-185.93.89.181:4109:United States
-185.93.89.146:4100:Bulgaria
-185.93.89.163:5232:United States
-89.58.45.94:44550:United States
-185.93.89.188:8444:United States
-185.93.89.182:4963:Germany
+185.93.89.168:8647:United States
+185.93.89.145:6080:United States
+185.93.89.172:4216:United States
+185.93.89.151:4599:United States
 45.33.95.52:1080:United States
-185.93.89.182:4083:United States
-185.93.89.158:4126:United States
+185.93.89.180:4108:United States
+185.93.89.182:4119:United States
 185.93.89.144:4929:Cambodia
 185.93.89.188:19667:United States
-185.93.89.183:9016:United States
+185.93.89.164:4228:France
