@@ -1,6 +1,5 @@
 dest_ip,dest_port,dest_country,metadata_file
-147.75.88.121,9400,US,connect.txt
-77.110.114.19,8118,US,connect.txt
+34.216.224.9,279,US,connect.txt
 167.71.34.74,8888,DE,connect.txt
-147.75.88.121,9480,US,connect.txt
-3.80.36.80,1024,US,connect.txt
+5.78.130.46,12016,US,connect.txt
+13.59.113.45,8082,US,connect.txt
