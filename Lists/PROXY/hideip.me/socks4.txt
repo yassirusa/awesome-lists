@@ -1,39 +1,31 @@
 69.61.200.104:36181:United States
-174.77.111.196:4145:United States
-45.73.0.118:5678:Canada
+98.188.47.150:4145:United States
 184.178.172.3:4145:United States
-184.181.217.213:4145:United States
-184.181.217.201:4145:United States
-76.81.6.107:31008:United States
-94.72.158.129:4153:Bulgaria
+184.178.172.17:4145:United States
+184.181.217.220:4145:United States
 184.185.2.12:4145:United States
-98.181.137.83:4145:United States
-139.255.86.226:5678:Indonesia
+184.170.248.5:4145:United States
+184.170.249.65:4145:United States
+46.214.153.223:5678:Romania
+80.65.80.230:5678:Bosnia and Herzegovina
 208.65.90.21:4145:United States
-45.61.188.134:44499:United States
-205.177.85.130:39593:Japan
+174.75.211.193:4145:United States
+202.40.180.22:1088:Bangladesh
 216.68.128.121:4145:United States
-177.85.65.177:4153:Brazil
-187.44.211.118:4153:Brazil
+201.234.24.89:4153:Argentina
+72.211.46.124:4145:United States
+98.190.239.3:4145:United States
+103.182.240.75:1080:Indonesia
 198.177.254.131:4145:United States
 198.177.253.13:4145:United States
-88.87.79.18:3629:Russia
-82.200.235.134:19170:Kazakhstan
+103.189.235.233:1080:Indonesia
 184.182.240.12:4145:United States
-72.206.74.126:4145:United States
 184.182.240.211:4145:United States
 192.104.242.158:4145:United States
-103.221.228.50:5678:Vietnam
-222.209.81.12:10800:China
-203.160.61.102:4145:Indonesia
-37.18.73.60:5566:France
-150.129.109.14:5678:India
-103.9.134.114:1080:Bangladesh
-218.3.253.238:10800:China
-187.92.41.186:4153:Brazil
-90.69.168.13:4145:Spain
+98.103.88.158:46104:United States
+37.18.73.60:5566:United States
+36.64.40.173:5678:Indonesia
+168.194.75.98:8888:Guatemala
 5.75.160.193:1089:Germany
 103.81.194.127:6666:Indonesia
-5.75.168.247:8028:United States
-5.75.168.247:8037:The Netherlands
-5.75.168.247:8068:Germany
+116.100.221.1:1080:Vietnam
