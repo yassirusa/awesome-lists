@@ -1,8 +1,6 @@
-72.49.49.11:31034:United States
-69.61.200.104:36181:United States
-184.178.172.18:15280:United States
+70.166.167.55:57745:United States
 208.65.90.3:4145:United States
-216.68.128.121:4145:United States
+198.177.254.157:4145:United States
+121.169.46.116:1090:South Korea
 103.82.27.24:10001:Vietnam
-74.81.46.242:60019:United States
 185.149.240.155:1080:Russia
