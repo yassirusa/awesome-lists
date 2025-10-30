@@ -1,10 +1,7 @@
 208.102.51.6:58208:United States
 184.185.2.12:4145:United States
-45.61.188.134:44499:United States
-103.182.240.75:1080:Indonesia
-198.177.253.13:4145:United States
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
 192.104.242.158:4145:United States
-138.124.49.149:10808:Switzerland
+115.127.188.214:1080:Bangladesh
 167.253.159.241:8890:Singapore
