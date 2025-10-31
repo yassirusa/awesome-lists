@@ -1,21 +1,10 @@
-208.102.51.6:58208:United States
-138.59.177.117:5678:Honduras
-98.188.47.132:4145:United States
-184.178.172.13:15311:United States
+184.185.2.12:4145:United States
+80.65.80.230:5678:Bosnia and Herzegovina
 208.65.90.21:4145:United States
-45.61.188.134:44499:United States
-91.150.189.122:60647:Poland
-47.176.213.210:39593:United States
-216.68.128.121:4145:United States
-62.4.37.104:60606:Montenegro
+103.182.240.75:1080:Indonesia
 161.35.82.57:1080:The Netherlands
 198.177.252.24:4145:United States
 198.177.254.131:4145:United States
-198.177.253.13:4145:United States
-103.81.194.165:7777:Indonesia
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
-192.104.242.158:4145:United States
-213.231.7.10:3629:Ukraine
-45.138.69.34:555:Canada
-134.35.152.92:1080:Yemen
+185.140.102.218:5678:Poland
