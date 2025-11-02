@@ -1,5 +1,10 @@
-27.147.169.66:1080:Bangladesh
-72.207.109.5:4145:United States
+98.170.57.231:4145:United States
+184.185.2.12:4145:United States
+98.181.137.80:4145:United States
+184.170.248.5:4145:United States
+208.65.90.21:4145:United States
+67.201.35.145:4145:United States
+198.177.253.13:4145:United States
+38.252.213.64:5678:Peru
 184.182.240.12:4145:United States
-184.182.240.211:4145:United States
-192.104.242.158:4145:United States
+81.162.195.35:4153:Czechia
