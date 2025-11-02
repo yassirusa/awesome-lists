@@ -1,11 +1,10 @@
-174.64.199.79:4145:United States
-184.178.172.13:15311:United States
-1.179.172.45:31225:Thailand
+184.185.2.12:4145:United States
+208.65.90.21:4145:United States
 27.147.169.66:1080:Bangladesh
-68.71.249.158:4145:United States
+103.175.127.230:60606:Bangladesh
 198.177.254.131:4145:United States
+198.177.253.13:4145:United States
+181.28.137.18:5678:Argentina
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
-192.104.242.158:4145:United States
 138.124.49.149:10808:Switzerland
-181.129.196.30:5678:Colombia
