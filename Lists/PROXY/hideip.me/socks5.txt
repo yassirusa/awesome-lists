@@ -1,19 +1,12 @@
-72.49.49.11:31034:United States
 208.65.90.3:4145:United States
 161.35.31.237:1080:Germany
 134.199.159.23:1080:United States
 198.177.254.157:4145:United States
-69.49.234.59:55804:United States
+103.82.27.24:10001:Vietnam
+103.216.253.50:20000:Hong Kong
 152.53.36.101:29661:Canada
 185.149.240.155:1080:Russia
+152.53.36.101:10007:United Kingdom
 152.53.36.101:10051:United States
-152.53.36.101:10019:France
-78.140.46.48:1080:Russia
 152.53.36.101:42403:United States
-152.53.36.101:20345:United Kingdom
-152.53.36.101:20077:United States
 152.53.36.101:46449:United Kingdom
-152.53.36.101:29399:United Kingdom
-152.53.36.101:59755:France
-129.146.226.84:1080:United States
-152.53.36.101:39309:United States
