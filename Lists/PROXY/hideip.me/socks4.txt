@@ -1,15 +1,10 @@
-208.102.51.6:58208:United States
 69.61.200.104:36181:United States
-66.42.224.229:41679:United States
-184.178.172.17:4145:United States
 184.185.2.12:4145:United States
-208.65.90.21:4145:United States
 27.147.169.66:1080:Bangladesh
-216.68.128.121:4145:United States
-98.190.239.3:4145:United States
-198.177.252.24:4145:United States
+72.211.46.124:4145:United States
 198.177.253.13:4145:United States
+195.74.72.111:5678:Ukraine
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
+192.104.242.158:4145:United States
 138.124.49.149:10808:Switzerland
-116.105.31.100:1080:Vietnam
