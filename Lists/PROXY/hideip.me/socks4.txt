@@ -1,12 +1,19 @@
-174.64.199.79:4145:United States
-98.175.31.195:4145:United States
-98.188.47.132:4145:United States
-192.111.138.29:4145:Canada
+174.77.111.197:4145:United States
+184.178.172.14:4145:United States
+192.111.139.162:4145:Canada
+184.178.172.26:4145:United States
 184.185.2.12:4145:United States
+184.170.249.65:4145:United States
 208.65.90.21:4145:United States
-198.177.252.24:4145:United States
+72.205.0.67:4145:United States
+134.199.159.23:1080:United States
+198.177.254.131:4145:United States
 198.177.253.13:4145:United States
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
 192.104.242.158:4145:United States
+115.127.188.214:1080:Bangladesh
+177.85.205.105:3629:Brazil
+105.235.201.234:32639:Nigeria
 36.89.56.127:5678:Indonesia
+105.214.20.57:5678:South Africa
