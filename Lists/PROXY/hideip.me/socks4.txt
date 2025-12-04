@@ -1,32 +1,23 @@
-72.49.49.11:31034:United States
-208.102.51.6:58208:United States
-69.61.200.104:36181:United States
-66.42.224.229:41679:United States
-184.178.172.14:4145:United States
-184.178.172.17:4145:United States
+98.188.47.132:4145:United States
+72.195.114.169:4145:United States
+184.178.172.3:4145:United States
 184.181.217.220:4145:United States
+174.77.111.198:49547:United States
 184.185.2.12:4145:United States
-88.213.214.254:4145:Bulgaria
-72.195.101.99:4145:United States
-1.20.227.66:4145:Thailand
+184.178.172.13:15311:United States
+46.47.82.16:4153:Bulgaria
 208.65.90.21:4145:United States
-192.252.210.233:4145:United States
-162.253.68.97:4145:United States
-142.54.237.34:4145:United States
-111.68.31.134:40385:Indonesia
-91.150.189.122:60647:Poland
-216.68.128.121:4145:United States
+139.59.24.173:1080:India
 134.199.159.23:1080:Australia
 198.177.252.24:4145:United States
 198.177.254.131:4145:United States
 198.177.253.13:4145:United States
-46.8.60.34:1080:Russia
+202.40.182.158:1080:Bangladesh
 184.182.240.12:4145:United States
-98.178.72.30:4145:United States
 184.182.240.211:4145:United States
 192.104.242.158:4145:United States
-37.18.73.60:5566:United States
-182.160.124.214:1080:Bangladesh
+194.156.74.84:9999:Spain
 45.65.224.26:1080:Argentina
 45.61.188.134:44499:United States
+103.159.196.115:1928:Indonesia
 45.5.154.131:1080:Argentina
