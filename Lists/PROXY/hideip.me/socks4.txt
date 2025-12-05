@@ -1,24 +1,25 @@
 72.49.49.11:31034:United States
+208.102.51.6:58208:United States
+66.42.224.229:41679:United States
+72.195.114.169:4145:United States
+184.181.217.220:4145:United States
+174.77.111.198:49547:United States
+72.195.34.41:4145:United States
+184.178.172.26:4145:United States
 184.185.2.12:4145:United States
-34.124.190.108:8080:United States
+72.195.101.99:4145:United States
 208.65.90.21:4145:United States
-196.0.111.194:48009:Uganda
-91.150.189.122:60647:Poland
-103.86.135.34:5678:Pakistan
-139.59.24.173:1080:India
-98.190.239.3:4145:United States
+216.68.128.121:4145:United States
+72.207.109.5:4145:United States
+134.199.159.23:1080:Australia
 198.177.252.24:4145:United States
-58.147.171.12:10801:Bangladesh
-84.52.123.163:4145:Russia
+198.177.254.131:4145:United States
+198.177.253.13:4145:United States
+185.95.186.165:48293:Iraq
 184.182.240.12:4145:United States
-72.206.74.126:4145:United States
 184.182.240.211:4145:United States
+72.207.33.64:4145:United States
 192.104.242.158:4145:United States
-169.239.45.51:4153:South Africa
-171.249.163.170:121:Vietnam
-125.228.143.207:4145:Taiwan
 182.160.124.214:1080:Bangladesh
-125.228.94.153:4145:Taiwan
 45.65.224.26:1080:Argentina
-115.42.67.186:56534:Pakistan
-166.111.224.166:7898:United States
+216.222.162.3:39593:United States
