@@ -150,7 +150,6 @@ dest_ip,dest_port,country_code,proxy_type
 139.177.229.213,8080,US,http
 139.177.229.135,8080,US,http
 139.177.229.209,8080,US,http
-139.177.229.54,8080,US,http
 139.177.229.243,8080,US,http
 139.177.229.0,8080,US,http
 139.177.229.201,8080,US,http
@@ -233,6 +232,7 @@ dest_ip,dest_port,country_code,proxy_type
 139.177.229.64,8080,US,http
 139.177.229.82,8080,US,http
 139.177.229.58,8080,US,http
+144.125.164.158,8080,US,http
 139.177.229.203,8080,US,http
 139.177.229.8,8080,US,http
 139.177.229.191,8080,US,http
