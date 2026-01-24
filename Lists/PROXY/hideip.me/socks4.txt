@@ -1,29 +1,21 @@
 72.49.49.11:31034:United States
 208.102.51.6:58208:United States
-24.249.199.4:4145:United States
-184.178.172.14:4145:United States
-72.195.34.59:4145:United States
-184.181.217.201:4145:United States
-184.181.217.194:4145:United States
-98.170.57.249:4145:United States
-184.178.172.26:4145:United States
+66.42.224.229:41679:United States
+184.181.217.210:4145:United States
+184.181.217.206:4145:United States
+184.178.172.17:4145:United States
 184.185.2.12:4145:United States
-98.181.137.83:4145:United States
-98.181.137.80:4145:United States
-68.1.210.189:4145:United States
-72.195.101.99:4145:United States
-98.175.31.222:4145:United States
+98.170.57.241:4145:United States
+113.53.29.228:13629:Thailand
+72.205.0.67:4145:United States
 184.182.240.12:4145:United States
-72.206.74.126:4145:United States
 184.182.240.211:4145:United States
-37.18.73.60:5566:Sweden
-88.216.68.90:9118:Germany
-5.199.173.4:9065:Germany
-84.21.172.174:8080:Latvia
+37.18.73.60:5566:United States
 84.21.172.174:4145:Latvia
-5.199.173.4:9109:Germany
-5.199.166.243:9092:United States
-5.199.166.242:9105:Sweden
-116.105.29.62:9175:Vietnam
-5.199.166.249:9112:United States
-5.199.174.153:9095:The Netherlands
+84.21.172.174:5678:Latvia
+84.21.172.174:8888:Latvia
+5.199.166.251:9068:United States
+5.199.166.235:9073:France
+5.199.166.246:9085:United States
+5.199.166.239:9061:Germany
+116.105.24.222:9176:Vietnam
