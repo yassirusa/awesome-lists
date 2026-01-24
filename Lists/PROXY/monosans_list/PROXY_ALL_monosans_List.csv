@@ -1,9 +1,7 @@
 dest_ip,dest_port,country_code,proxy_type
 178.63.72.110,3129,DE,http
-88.99.27.22,5081,DE,http
 149.51.63.127,8080,US,http
 91.107.170.243,6825,DE,http
-63.250.32.221,3128,US,http
 104.129.202.126,11456,US,http
 104.129.202.126,11731,US,http
 104.129.202.126,10809,US,http
@@ -30,8 +28,6 @@ dest_ip,dest_port,country_code,proxy_type
 104.129.202.125,10810,US,http
 104.129.202.127,11011,US,http
 138.68.60.8,80,US,http
-63.250.32.220,3128,US,http
-109.107.181.151,51553,DE,http
 216.229.112.25,8080,US,http
 209.97.150.167,3128,US,http
 198.199.86.11,3128,US,http
