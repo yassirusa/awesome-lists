@@ -1,15 +1,21 @@
 72.49.49.11:31034:United States
-208.102.51.6:58208:United States
 66.42.224.229:41679:United States
-184.178.172.11:4145:United States
+24.249.199.4:4145:United States
+184.181.217.210:4145:United States
+184.178.172.3:4145:United States
+184.181.217.201:4145:United States
 184.181.217.194:4145:United States
-184.185.2.12:4145:United States
-72.205.0.93:4145:United States
-216.68.128.121:4145:United States
+184.178.172.13:15311:United States
 72.207.109.5:4145:United States
-196.216.133.18:1080:South Africa
-37.18.73.60:5566:The Netherlands
-5.199.166.234:9060:Italy
-5.199.166.234:9111:Switzerland
-5.199.166.250:9068:Poland
-5.199.166.242:9097:Sweden
+184.182.240.211:4145:United States
+98.182.171.161:4145:United States
+37.18.73.60:5566:United States
+125.228.94.199:4145:Taiwan
+46.8.69.113:4145:The Netherlands
+46.8.69.128:5678:The Netherlands
+46.8.69.113:5678:The Netherlands
+84.21.172.174:8080:Latvia
+84.21.172.174:4145:Latvia
+84.21.172.174:5678:Latvia
+84.21.172.174:8888:Latvia
+5.199.166.252:9110:Germany
