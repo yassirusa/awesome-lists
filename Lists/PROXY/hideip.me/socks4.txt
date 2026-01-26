@@ -1,22 +1,20 @@
-208.102.51.6:58208:United States
-66.42.224.229:41679:United States
+72.49.49.11:31034:United States
 184.185.2.12:4145:United States
 216.68.128.121:4145:United States
-198.177.254.157:4145:United States
 198.177.253.13:4145:United States
+184.182.240.12:4145:United States
 184.182.240.211:4145:United States
+72.207.33.64:4145:United States
 192.104.242.158:4145:United States
 37.18.73.60:5566:United States
-173.212.215.22:7070:France
-85.228.42.230:4153:Sweden
-190.249.169.153:3629:Colombia
-41.216.169.82:5678:Nigeria
-109.120.135.230:2030:Sweden
-45.172.202.84:1080:Brazil
-88.216.68.7:9085:Germany
-84.21.172.174:4145:Latvia
-185.95.186.165:48293:Iraq
-88.216.68.41:9069:Germany
-147.45.222.253:3128:Germany
-88.216.68.24:9072:The Netherlands
+46.8.69.113:4145:The Netherlands
+46.8.69.113:1080:The Netherlands
+46.8.69.113:8888:The Netherlands
+46.8.69.128:4145:The Netherlands
+46.8.69.113:8080:The Netherlands
+46.8.69.113:5678:The Netherlands
+5.199.166.248:9093:United States
+177.26.112.65:5678:Brazil
+5.199.166.246:9111:Austria
+5.199.166.246:9069:Germany
 103.103.88.103:1080:Bangladesh
