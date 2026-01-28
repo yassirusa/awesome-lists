@@ -1,18 +1,23 @@
 72.49.49.11:31034:United States
 208.102.51.6:58208:United States
 66.42.224.229:41679:United States
+184.178.172.11:4145:United States
 184.185.2.12:4145:United States
 208.65.90.21:4145:United States
 216.68.128.121:4145:United States
+72.207.109.5:4145:United States
 198.177.254.157:4145:United States
 198.177.253.13:4145:United States
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
-192.104.242.158:4145:United States
 37.18.73.60:5566:Sweden
+88.216.68.89:9098:Seychelles
+5.199.166.249:9095:Poland
 84.21.172.174:8080:Latvia
 84.21.172.174:4145:Latvia
+84.21.172.174:5678:Latvia
 84.21.172.174:8888:Latvia
-88.216.68.8:9069:The Netherlands
-5.199.166.248:9081:Denmark
-5.199.166.250:9087:Germany
+193.221.203.121:4145:Finland
+193.221.203.121:8888:Finland
+193.221.203.121:5678:Finland
+88.216.68.89:9088:United States
