@@ -1,14 +1,34 @@
 72.49.49.11:31034:United States
 208.102.51.6:58208:United States
 66.42.224.229:41679:United States
-184.181.217.213:4145:United States
+184.181.217.210:4145:United States
+98.188.47.132:4145:United States
+184.181.217.206:4145:United States
+184.178.172.3:4145:United States
+184.178.172.11:4145:United States
+184.178.172.17:4145:United States
+184.181.217.194:4145:United States
 184.181.217.220:4145:United States
 98.170.57.249:4145:United States
 184.185.2.12:4145:United States
+184.178.172.13:15311:United States
+72.195.101.99:4145:United States
+98.170.57.241:4145:United States
+68.71.252.38:4145:United States
+68.71.241.33:4145:United States
 216.68.128.121:4145:United States
+198.177.253.13:4145:United States
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
-37.18.73.60:5566:Germany
-88.216.68.8:9085:Austria
-88.216.68.10:9116:Austria
-88.216.68.91:9062:Germany
+98.182.171.161:4145:United States
+192.104.242.158:4145:United States
+37.18.73.60:5566:The Netherlands
+192.200.136.66:60606:United States
+134.249.128.111:1080:Ukraine
+103.208.100.74:1080:Indonesia
+115.136.121.54:9050:Romania
+45.172.202.84:1080:Brazil
+88.216.68.24:9074:Norway
+103.9.134.114:1080:Bangladesh
+88.216.68.25:9097:Austria
+88.216.68.7:9062:Germany
