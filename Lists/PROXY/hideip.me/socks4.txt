@@ -1,17 +1,47 @@
 72.49.49.11:31034:United States
+208.102.51.6:58208:United States
+66.42.224.229:41679:United States
+174.77.111.196:4145:United States
+98.170.57.231:4145:United States
+184.178.172.14:4145:United States
 98.188.47.150:4145:United States
+184.181.217.206:4145:United States
 184.178.172.11:4145:United States
+184.181.217.213:4145:United States
+184.181.217.194:4145:United States
+184.181.217.220:4145:United States
+192.111.130.2:4145:United States
+72.195.34.60:27391:United States
+184.178.172.26:4145:United States
 184.185.2.12:4145:United States
+184.178.172.13:15311:United States
+72.195.101.99:4145:United States
 98.170.57.241:4145:United States
 208.65.90.21:4145:United States
+202.79.47.159:10800:Nepal
+174.75.211.193:4145:United States
 216.68.128.121:4145:United States
-72.211.46.99:4145:United States
-184.181.178.33:4145:United States
 198.177.254.157:4145:United States
 198.177.253.13:4145:United States
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
+98.182.171.161:4145:United States
 192.104.242.158:4145:United States
+98.191.0.47:4145:United States
 37.18.73.60:5566:United States
-202.70.80.153:5678:Nepal
+125.228.94.199:4145:Taiwan
+103.143.214.81:5678:India
 109.120.135.230:2030:Sweden
+88.216.68.24:9097:Norway
+197.157.194.28:1080:Burundi
+41.223.232.34:4145:Burkina Faso
+190.104.8.142:14888:Bolivia
+88.216.68.12:9094:Luxembourg
+88.216.68.7:9103:The Netherlands
+88.216.68.24:9114:Albania
+88.216.68.10:9117:Germany
+88.216.68.10:9106:Ukraine
+88.216.68.91:9110:United States
+88.216.68.8:9118:Germany
+88.216.68.10:9060:Germany
+88.216.68.7:9084:Germany
