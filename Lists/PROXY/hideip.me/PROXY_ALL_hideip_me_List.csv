@@ -1,7 +1,7 @@
 dest_ip,dest_port,dest_country,metadata_file
+76.169.128.104,8080,US,connect.txt
+152.70.137.18,8888,US,connect.txt
 23.138.80.49,999,PR,connect.txt
-163.5.128.40,14270,US,connect.txt
-163.5.128.114,14270,US,connect.txt
-157.230.106.35,8080,DE,connect.txt
-209.38.222.145,8080,DE,connect.txt
-165.227.5.10,8888,US,connect.txt
+163.5.128.84,14270,US,connect.txt
+167.71.245.33,3128,US,connect.txt
+152.53.136.194,10088,DE,connect.txt
