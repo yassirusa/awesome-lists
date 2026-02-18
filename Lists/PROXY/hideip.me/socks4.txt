@@ -1,13 +1,15 @@
 208.102.51.6:58208:United States
+174.77.111.196:4145:United States
+72.195.34.59:4145:United States
 184.181.217.206:4145:United States
-184.181.217.201:4145:United States
+184.181.217.220:4145:United States
+98.170.57.249:4145:United States
+70.166.167.55:57745:United States
 184.185.2.12:4145:United States
-208.65.90.3:4145:United States
-216.68.128.121:4145:United States
+98.170.57.241:4145:United States
+72.207.109.5:4145:United States
 184.182.240.12:4145:United States
-98.178.72.30:4145:United States
 184.182.240.211:4145:United States
-178.115.255.177:5678:Austria
+103.177.20.27:1080:Indonesia
 147.45.124.194:1080:Russia
 123.200.8.6:1081:Bangladesh
-46.227.29.146:1080:Russia
