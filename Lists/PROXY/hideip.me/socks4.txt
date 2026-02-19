@@ -1,26 +1,39 @@
-174.77.111.197:4145:United States
+174.77.111.196:4145:United States
+72.195.34.58:4145:United States
 98.170.57.231:4145:United States
 184.181.217.210:4145:United States
-184.178.172.14:4145:United States
-72.195.114.169:4145:United States
+72.195.34.59:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
 184.178.172.17:4145:United States
+184.181.217.213:4145:United States
+184.181.217.201:4145:United States
+184.181.217.194:4145:United States
 184.181.217.220:4145:United States
+98.170.57.249:4145:United States
 184.178.172.26:4145:United States
 184.185.2.12:4145:United States
-184.178.172.13:15311:United States
-103.43.128.123:5678:Indonesia
+98.181.137.80:4145:United States
+72.195.101.99:4145:United States
 208.65.90.21:4145:United States
 208.65.90.3:4145:United States
-72.205.0.93:4145:United States
+174.75.211.193:4145:United States
+72.205.0.67:4145:United States
+68.71.254.6:4145:United States
+142.54.236.97:4145:United States
+5.58.47.25:3629:Ukraine
 216.68.128.121:4145:United States
-64.227.131.240:1080:India
+72.211.46.124:4145:United States
+72.211.46.99:4145:United States
+72.207.109.5:4145:United States
+190.242.59.158:4145:Colombia
+98.190.239.3:4145:United States
 198.177.254.157:4145:United States
 198.177.253.13:4145:United States
-119.93.123.229:4145:Philippines
+103.86.57.9:4145:Nepal
 184.182.240.12:4145:United States
-72.206.74.126:4145:United States
-98.178.72.30:4145:United States
 184.182.240.211:4145:United States
+70.166.65.160:4145:United States
 192.104.242.158:4145:United States
-185.26.168.17:4153:Russia
+103.168.246.3:4153:Indonesia
+125.228.94.153:4145:Taiwan
