@@ -1,10 +1,12 @@
-208.102.51.6:58208:United States
-184.185.2.12:4145:United States
-200.29.109.112:14888:Colombia
-98.170.57.241:4145:United States
+184.181.217.206:4145:United States
+98.181.137.83:4145:United States
 208.65.90.21:4145:United States
+208.65.90.3:4145:United States
+216.68.128.121:4145:United States
 198.177.254.157:4145:United States
 198.177.253.13:4145:United States
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
 192.104.242.158:4145:United States
+178.210.130.89:5678:Ukraine
+159.65.113.122:1080:Germany
