@@ -1,6 +1,10 @@
 dest_ip,dest_port,dest_country,metadata_file
-103.113.70.189,1081,US,socks4.txt
 165.227.5.10,8888,US,connect.txt
-5.75.201.136,1080,DE,connect.txt
-88.216.98.209,53983,US,connect.txt
-148.135.85.87,1080,US,socks5.txt
+205.209.118.30,3138,US,connect.txt
+142.93.202.130,3128,US,http.txt
+159.65.230.46,8888,US,http.txt
+81.169.213.169,8888,DE,http.txt
+51.141.175.118,80,US,http.txt
+34.44.49.215,80,US,http.txt
+172.200.72.48,80,US,http.txt
+174.138.119.88,80,US,http.txt
