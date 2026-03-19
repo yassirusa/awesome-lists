@@ -1,3 +1,6 @@
 dest_ip,dest_port,country_code,proxy_type
 147.161.239.240,8800,DE,http
-91.107.148.58,53967,DE,http
+103.113.70.189,1081,US,http
+162.240.154.26,3128,US,http
+35.225.22.61,80,US,http
+84.32.6.251,49146,US,http
