@@ -3,9 +3,8 @@
 184.170.248.5:4145:United States
 184.170.249.65:4145:United States
 199.58.185.9:4145:United States
-213.149.156.87:5678:Bulgaria
+188.163.170.130:35578:Ukraine
 199.116.112.6:4145:United States
-203.170.146.146:4153:Thailand
 192.252.211.193:4145:United States
 208.65.90.3:4145:United States
 192.252.215.2:4145:United States
@@ -20,10 +19,10 @@
 68.71.241.33:4145:United States
 72.37.216.68:4145:United States
 142.54.229.249:4145:United States
+159.148.146.65:5678:Latvia
 192.252.214.17:4145:United States
 198.177.254.131:4145:United States
 198.177.254.157:4145:United States
-203.189.159.241:1080:Cambodia
 192.104.242.158:4145:United States
 115.69.210.60:1080:Bangladesh
-163.47.37.228:1080:Bangladesh
+23.148.244.183:10250:United States
