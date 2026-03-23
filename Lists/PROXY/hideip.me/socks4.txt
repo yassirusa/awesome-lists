@@ -1,3 +1,2 @@
-119.40.98.29:8069:Mongolia
-190.122.88.122:1080:Argentina
-220.169.119.8:1080:Singapore
+20.57.138.93:1080:United States
+20.64.147.174:1080:United States
