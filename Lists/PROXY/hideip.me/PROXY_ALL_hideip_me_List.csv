@@ -1,3 +1,2 @@
 dest_ip,dest_port,dest_country,metadata_file
 208.87.243.199,7878,US,http.txt
-209.38.154.7,1080,US,socks5.txt
