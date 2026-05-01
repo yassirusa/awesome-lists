@@ -1,9 +1,7 @@
-199.58.185.9:4145:United States
-68.71.242.118:4145:United States
-142.54.229.249:4145:United States
+184.185.2.12:4145:United States
+177.55.191.22:60606:Brazil
 216.68.128.121:4145:United States
 184.182.240.12:4145:United States
-184.182.240.211:4145:United States
-103.141.148.62:5678:Indonesia
-194.186.213.206:1080:Russia
+216.122.181.9:1080:Dominican Republic
+103.135.102.161:8081:Hong Kong
 217.14.192.183:1080:Russia
