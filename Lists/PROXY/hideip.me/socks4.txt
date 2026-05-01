@@ -1,20 +1,14 @@
-192.111.138.29:4145:United States
 184.185.2.12:4145:United States
+184.170.249.65:4145:United States
+34.124.190.108:8080:Germany
 199.116.112.6:4145:United States
-192.252.211.193:4145:United States
-192.252.210.233:4145:United States
+192.111.129.150:4145:United States
 68.71.242.118:4145:United States
-72.37.216.68:4145:United States
 216.68.128.121:4145:United States
-64.227.131.240:1080:India
+192.252.214.17:4145:United States
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
 103.167.40.54:1080:Bangladesh
 217.14.192.183:1080:Russia
-125.228.94.199:4145:Taiwan
-125.228.143.207:4145:Taiwan
 62.60.237.68:8080:Finland
-46.8.31.104:1080:Kazakhstan
-173.234.15.148:9050:United States
-43.153.47.107:9050:Sweden
-45.81.130.12:9050:Germany
+43.153.44.133:9050:United States
