@@ -1,10 +1,8 @@
 184.185.2.12:4145:United States
-192.111.129.150:4145:United States
-142.54.231.38:4145:United States
-202.179.88.233:51951:India
+199.58.185.9:4145:United States
+142.54.226.214:4145:United States
+83.219.1.130:5678:Russia
 216.68.128.121:4145:United States
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
-37.235.176.166:1080:Russia
-196.250.225.146:60606:South Africa
 217.14.192.183:1080:Russia
