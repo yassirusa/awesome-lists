@@ -1,57 +1,49 @@
 72.49.49.11:31034:United States
 66.42.224.229:41679:United States
-24.249.199.4:4145:United States
-24.249.199.12:4145:United States
+174.77.111.196:4145:United States
 174.77.111.197:4145:United States
-184.181.217.210:4145:United States
+98.170.57.231:4145:United States
 184.178.172.14:4145:United States
-98.188.47.132:4145:United States
 98.188.47.150:4145:United States
-184.181.217.206:4145:United States
 184.178.172.3:4145:United States
-184.178.172.11:4145:United States
-184.178.172.17:4145:United States
-184.181.217.213:4145:United States
+184.181.217.201:4145:United States
 184.181.217.194:4145:United States
 184.181.217.220:4145:United States
+192.111.139.162:4145:United States
 192.111.130.2:4145:United States
 98.170.57.249:4145:United States
-184.178.172.28:15294:United States
-184.178.172.23:4145:United States
+184.178.172.26:4145:United States
 184.185.2.12:4145:United States
-98.181.137.83:4145:United States
-68.1.210.163:4145:United States
+184.170.249.65:4145:United States
 199.58.185.9:4145:United States
 68.1.210.189:4145:United States
-46.214.153.223:5678:Romania
+174.75.211.222:4145:United States
 72.195.101.99:4145:United States
+34.124.190.108:8080:The Netherlands
+98.170.57.241:4145:United States
 98.175.31.222:4145:United States
-72.205.0.93:4145:United States
-68.71.242.118:4145:United States
+68.71.252.38:4145:United States
 142.54.231.38:4145:United States
-199.187.210.54:4145:United States
+67.201.39.14:4145:United States
 216.68.128.121:4145:United States
-109.68.189.22:54643:Russia
+213.149.154.213:5678:Bulgaria
 184.181.178.33:4145:United States
+98.190.239.3:4145:United States
 184.182.240.12:4145:United States
-98.182.147.97:4145:United States
-72.223.188.92:4145:United States
 98.178.72.30:4145:United States
 184.182.240.211:4145:United States
 72.223.188.67:4145:United States
 72.207.33.64:4145:United States
-93.183.175.6:5678:Bulgaria
-213.231.7.10:3629:Ukraine
-213.165.185.211:4153:Malta
-192.158.15.201:50877:Canada
-125.25.57.57:4153:Thailand
-177.66.43.189:4145:Brazil
-186.1.182.194:4153:Colombia
+105.27.180.194:1080:South Africa
+115.136.121.54:9050:The Netherlands
+109.72.100.113:48293:Montenegro
 136.228.160.250:5678:Myanmar
-77.65.50.118:34159:Poland
-103.81.194.162:6666:Indonesia
+103.208.100.74:1080:Indonesia
 185.230.190.195:1080:Finland
-196.0.111.194:48009:Uganda
+94.130.90.236:43009:Germany
+62.60.149.161:1080:Sweden
 190.104.8.142:14888:Bolivia
 130.61.119.46:3128:Germany
-116.104.252.1:1080:Vietnam
+152.42.219.165:9050:Sweden
+89.58.17.90:9050:Luxembourg
+76.144.40.133:9051:Croatia
