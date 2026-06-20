@@ -1,2 +1,7 @@
 dest_ip,dest_port,country_code,proxy_type
+3.95.232.113,3128,US,http
 3.211.120.181,443,US,http
+34.43.46.91,80,US,http
+34.200.8.40,3128,US,http
+34.43.46.91,443,US,http
+95.140.154.156,1080,DE,http
