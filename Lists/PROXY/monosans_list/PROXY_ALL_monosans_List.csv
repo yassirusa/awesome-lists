@@ -1,1 +1,3 @@
 dest_ip,dest_port,country_code,proxy_type
+49.51.228.35,81,US,http
+163.5.180.110,6080,DE,http
