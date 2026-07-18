@@ -13,6 +13,7 @@ dest_ip,dest_port,country_code,proxy_type
 8.211.51.115,8080,DE,http
 8.211.51.115,4002,DE,http
 8.211.51.115,9050,DE,http
+8.211.51.115,10,DE,http
 8.211.42.167,5060,DE,http
 8.211.51.115,8443,DE,http
 47.91.89.3,176,DE,http
