@@ -1,301 +1,105 @@
 [
   {
     "country": "Russian Federation",
-    "ip": "94.103.13.179",
-    "port": "40001",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "46.8.112.212",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Russian Federation",
-    "ip": "85.198.82.207",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Singapore",
-    "ip": "151.242.116.106",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Viet Nam",
-    "ip": "171.248.215.230",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Viet Nam",
-    "ip": "27.76.194.0",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Finland",
-    "ip": "193.29.224.20",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United States of America",
-    "ip": "107.174.47.236",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Viet Nam",
-    "ip": "171.247.245.3",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Germany",
-    "ip": "38.60.250.200",
-    "port": "80",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "5.129.236.27",
-    "port": "1080",
+    "ip": "194.67.207.95",
+    "port": "19080",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
     "country": "France",
-    "ip": "95.182.84.45",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United States of America",
-    "ip": "37.16.20.163",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United States of America",
-    "ip": "38.255.17.33",
-    "port": "40001",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Germany",
-    "ip": "144.31.215.191",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Viet Nam",
-    "ip": "27.75.158.197",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "5.253.59.150",
-    "port": "1082",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "37.220.84.231",
-    "port": "28016",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "45.91.236.48",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Russian Federation",
-    "ip": "155.212.209.31",
-    "port": "7890",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Germany",
-    "ip": "84.21.173.170",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Latvia",
-    "ip": "185.92.183.236",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Viet Nam",
-    "ip": "115.74.159.245",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Russian Federation",
-    "ip": "95.182.78.9",
-    "port": "5678",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Nepal",
-    "ip": "202.166.219.80",
-    "port": "4153",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United States of America",
-    "ip": "184.181.217.201",
-    "port": "4145",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "South Africa",
-    "ip": "105.30.248.241",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Libya",
-    "ip": "165.16.45.200",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Russian Federation",
-    "ip": "94.102.89.44",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Cambodia",
-    "ip": "116.212.156.72",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Russian Federation",
-    "ip": "159.194.228.26",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "144.31.203.194",
+    "ip": "94.23.21.76",
     "port": "9050",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
-    "country": "Pakistan",
-    "ip": "139.135.63.151",
-    "port": "5678",
+    "country": "Indonesia",
+    "ip": "203.160.58.198",
+    "port": "4145",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
-    "country": "Estonia",
-    "ip": "45.67.128.75",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Viet Nam",
-    "ip": "115.74.157.21",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Iran, Islamic Republic of",
-    "ip": "185.60.59.245",
+    "country": "Finland",
+    "ip": "150.251.152.104",
     "port": "10808",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
+    "country": "India",
+    "ip": "103.194.88.226",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
     "country": "Russian Federation",
-    "ip": "139.28.222.128",
-    "port": "2080",
+    "ip": "81.26.186.169",
+    "port": "10808",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
-    "country": "Pakistan",
-    "ip": "111.119.162.248",
-    "port": "10915",
+    "country": "Viet Nam",
+    "ip": "171.250.218.158",
+    "port": "1080",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
-    "country": "Poland",
-    "ip": "217.60.33.157",
+    "country": "Indonesia",
+    "ip": "114.9.55.102",
+    "port": "1081",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Viet Nam",
+    "ip": "27.68.175.42",
     "port": "1080",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
     "country": "Germany",
-    "ip": "82.22.174.113",
+    "ip": "212.132.99.35",
+    "port": "9050",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Nigeria",
+    "ip": "196.1.182.158",
     "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "United States of America",
+    "ip": "96.36.50.99",
+    "port": "39593",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "France",
+    "ip": "173.212.251.39",
+    "port": "1081",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Netherlands",
+    "ip": "85.17.61.80",
+    "port": "9050",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
     "country": "Viet Nam",
-    "ip": "171.236.89.87",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Egypt",
-    "ip": "196.202.80.48",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United Kingdom of Great Britain and Northern Ireland",
-    "ip": "91.107.122.209",
+    "ip": "116.104.7.164",
     "port": "1080",
     "type": "socks4",
     "anonymity": "elite"
@@ -308,6 +112,55 @@
     "anonymity": "elite"
   },
   {
+    "country": "Russian Federation",
+    "ip": "193.188.23.152",
+    "port": "19999",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "South Africa",
+    "ip": "143.20.185.219",
+    "port": "9150",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Latvia",
+    "ip": "46.8.64.58",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Kenya",
+    "ip": "197.155.73.230",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Peru",
+    "ip": "209.45.18.8",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Viet Nam",
+    "ip": "27.75.151.160",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Indonesia",
+    "ip": "157.15.166.67",
+    "port": "1082",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
     "country": "Viet Nam",
     "ip": "27.75.150.5",
     "port": "1080",
@@ -315,93 +168,37 @@
     "anonymity": "elite"
   },
   {
-    "country": "Kazakhstan",
-    "ip": "88.204.134.234",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United States of America",
-    "ip": "98.170.57.249",
-    "port": "4145",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
     "country": "Viet Nam",
-    "ip": "27.77.227.43",
+    "ip": "27.75.150.159",
     "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Brazil",
-    "ip": "181.233.94.101",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Viet Nam",
-    "ip": "116.107.184.175",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United States of America",
-    "ip": "217.216.88.22",
-    "port": "9084",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Nigeria",
-    "ip": "154.113.196.49",
-    "port": "5678",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
     "country": "Indonesia",
-    "ip": "203.160.61.103",
-    "port": "4145",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United States of America",
-    "ip": "23.184.200.67",
-    "port": "1080",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Iran, Islamic Republic of",
-    "ip": "5.57.32.204",
-    "port": "10808",
-    "type": "socks4",
-    "anonymity": "elite"
-  },
-  {
-    "country": "India",
-    "ip": "103.59.203.201",
+    "ip": "203.160.59.253",
     "port": "4145",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
     "country": "Viet Nam",
-    "ip": "27.75.158.107",
+    "ip": "27.75.152.169",
     "port": "1080",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
-    "country": "Finland",
-    "ip": "65.21.61.221",
-    "port": "8080",
+    "country": "South Africa",
+    "ip": "169.159.128.73",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Viet Nam",
+    "ip": "27.76.194.0",
+    "port": "1080",
     "type": "socks4",
     "anonymity": "elite"
   },
@@ -413,30 +210,226 @@
     "anonymity": "elite"
   },
   {
-    "country": "Netherlands",
-    "ip": "192.142.18.232",
-    "port": "902",
+    "country": "Argentina",
+    "ip": "181.114.49.134",
+    "port": "1082",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
-    "country": "Poland",
-    "ip": "57.128.249.250",
-    "port": "9052",
+    "country": "Netherlands",
+    "ip": "72.56.94.27",
+    "port": "1081",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
     "country": "Russian Federation",
-    "ip": "194.67.207.95",
-    "port": "19080",
+    "ip": "178.57.106.43",
+    "port": "4145",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Hong Kong",
+    "ip": "206.237.19.42",
+    "port": "10808",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Türkiye",
+    "ip": "45.74.158.148",
+    "port": "443",
     "type": "socks4",
     "anonymity": "elite"
   },
   {
     "country": "Viet Nam",
-    "ip": "27.65.119.207",
+    "ip": "27.75.146.255",
     "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Argentina",
+    "ip": "200.63.95.13",
+    "port": "1085",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Brazil",
+    "ip": "177.131.118.123",
+    "port": "5432",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Finland",
+    "ip": "193.29.224.20",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Philippines",
+    "ip": "161.49.100.131",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "France",
+    "ip": "51.83.101.177",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Hong Kong",
+    "ip": "43.128.63.68",
+    "port": "7890",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Indonesia",
+    "ip": "103.76.170.254",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Germany",
+    "ip": "209.38.214.48",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Nepal",
+    "ip": "124.41.252.48",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "ip": "109.165.248.250",
+    "port": "5678",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Viet Nam",
+    "ip": "116.107.180.24",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Argentina",
+    "ip": "200.63.95.1",
+    "port": "1085",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Austria",
+    "ip": "213.173.75.222",
+    "port": "5678",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Germany",
+    "ip": "185.108.76.197",
+    "port": "9050",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Nepal",
+    "ip": "202.166.219.80",
+    "port": "4153",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Viet Nam",
+    "ip": "171.250.222.254",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Latvia",
+    "ip": "185.92.183.236",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "United States of America",
+    "ip": "91.196.33.61",
+    "port": "9091",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Ukraine",
+    "ip": "95.182.78.2",
+    "port": "5678",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "India",
+    "ip": "103.80.168.9",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Thailand",
+    "ip": "1.179.172.45",
+    "port": "31225",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Viet Nam",
+    "ip": "171.247.246.23",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Viet Nam",
+    "ip": "27.76.199.156",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Pakistan",
+    "ip": "110.38.234.74",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Finland",
+    "ip": "65.109.219.73",
+    "port": "1080",
+    "type": "socks4",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Russian Federation",
+    "ip": "186.246.2.55",
+    "port": "1085",
     "type": "socks4",
     "anonymity": "elite"
   }
